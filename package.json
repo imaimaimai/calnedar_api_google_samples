@@ -1,0 +1,15 @@
+{
+  "name": "ryoujisan_samples2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^67.0.0",
+    "uuidv4": "^6.2.6"
+  }
+}
